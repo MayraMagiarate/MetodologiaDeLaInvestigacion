@@ -1,6 +1,11 @@
-Este archivo contiene: La Descripción del Video Juego a desarrollar. La Historia del video Juego Original. Las Reglas del Juego con sus respectivos objetivos. Las Tecnologías utilizadas para el desarrollo del Mismo.
+Este archivo contiene:
+ La Descripción del Video Juego a desarrollar.
+ La Historia del video Juego Original.
+ Las Reglas del Juego con sus respectivos objetivos. 
+Las Tecnologías utilizadas para el desarrollo del Mismo.
 
-Descripción del Video Juego: El tateti es un juego que se juega de a dos (dos personas fìsicas, o una persona física y una virtual). Dispone de un tablero que está dividido en tres filas y tres columnas, esto seria un cuadrado que contiene 9 cuadrados. Cada jugador elige entre una "X" o una "O" que lo represente, está será la marca que lo identifique. Una vez que cada Jugador eligio su marca, tiran una moneda eligiendo anteriormente cara o cruz cada uno, si sale su elección, cara o cruz comenzará ese jugador primero. El juego es por turnos, juega uno luego el otro y consiste basicamente (objetivo) en lograr tener una fila, una columna o una diagonal de marcas iguales, o sea logar tener tres en linea de una misma marca antes que el oponente.
+Descripción del Video Juego:
+ El tateti es un juego que se juega de a dos (dos personas fìsicas, o una persona física y una virtual). Dispone de un tablero que está dividido en tres filas y tres columnas, esto seria un cuadrado que contiene 9 cuadrados. Cada jugador elige entre una "X" o una "O" que lo represente, está será la marca que lo identifique. Una vez que cada Jugador eligio su marca, tiran una moneda eligiendo anteriormente cara o cruz cada uno, si sale su elección, cara o cruz comenzará ese jugador primero. El juego es por turnos, juega uno luego el otro y consiste basicamente (objetivo) en lograr tener una fila, una columna o una diagonal de marcas iguales, o sea logar tener tres en linea de una misma marca antes que el oponente.
 
 HISTORIA DEL TATETI:
 
@@ -19,4 +24,5 @@ Reglas del TATETI: . El primer turno lo obtendrá el jugador que adivine cara o c
 TECNOLOGÍAS UTILIZADAS
 
 Netbeans 8.2 y 8.1
-Lenguaje: Java, con libreria: javax.swing.*;
+Lenguaje: Java, con libreria: JDK 1.8
+javax.swing.*; para la interfaz gráfica.
